@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-bug-textarea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
